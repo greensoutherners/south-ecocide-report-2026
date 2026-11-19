@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 458" width="1000" height="458" role="img" aria-labelledby="desc">
-<desc id="desc">Four 100% bars, one for each category of record, split into three phases: 1 March to 17 April, 18 April to 14 June, 15 June to 14 October 2026. A grey bar on top shows the phases' share of the window's days, and dashed lines carry its breaks down the chart. Each category is read alone; categories are never added together.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 474.88" width="1000" height="474.88" role="img" aria-labelledby="desc">
+<desc id="desc">Four 100% bars, one for each category of record, split into three phases: 1 March to 17 April, 18 April to 14 June, 15 June to 14 October 2026. A grey bar on top shows the phases' share of the window's days, and dashed lines carry its breaks down the chart. Each category is read alone; categories are never added together. The fifth category, the glyphosate spraying of 1 February 2026, falls before the window and is in no phase.</desc>
 <style>svg{fill:#1f2220}text{font-family:Inter, "Segoe UI", system-ui, sans-serif}.h{paint-order:stroke;stroke:#fff;stroke-width:4px;stroke-linejoin:round}</style>
-<rect width="1000" height="458" fill="#ffffff"/>
+<rect width="1000" height="474.88" fill="#ffffff"/>
 <g class="back">
 <line x1="434.74" y1="104" x2="434.74" y2="380" stroke="#828282" stroke-width="1" stroke-dasharray="3,3"/>
 <line x1="597.54" y1="104" x2="597.54" y2="380" stroke="#828282" stroke-width="1" stroke-dasharray="3,3"/>
@@ -40,6 +40,7 @@
 <line x1="316.41" y1="372" x2="316.41" y2="376" stroke="#828282" stroke-width="0.9"/>
 <line x1="332.82" y1="342" x2="332.82" y2="372" stroke="#ffffff" stroke-width="1.5"/>
 <line x1="404.62" y1="342" x2="404.62" y2="372" stroke="#ffffff" stroke-width="1.5"/>
+<path d="M20.60,442.90L25.20,447.50L20.60,452.10L16.00,447.50Z" fill="#6f6a2b"/>
 </g>
 <g class="text">
 <text x="940" y="22" font-size="12.5" fill="#4b4e4c" text-anchor="end">Share of each category's own records in each phase</text>
@@ -73,5 +74,6 @@
 <text x="32.44" y="371" font-size="12.5" fill="#4b4e4c">624 reported</text>
 <text x="16" y="418" font-size="12.5" fill="#828282">Dashed lines carry the phases' share of the window's days down the chart: a category spread evenly over the window would break at them. The middle phase</text>
 <text x="16" y="434.88" font-size="12.5" fill="#828282">ends with the week of 8 June, the last holding 10 or more evacuation orders recorded.</text>
+<text x="31.2" y="451.75" font-size="12.5" fill="#828282">The fifth category, the glyphosate spraying of 1 February 2026, falls before the window and is not counted in any phase.</text>
 </g>
 </svg>

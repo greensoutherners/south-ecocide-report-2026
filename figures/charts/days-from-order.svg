@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" width="1000" height="440" role="img" aria-labelledby="desc">
-<desc id="desc">A dot plot in three groups: the median number of days from a town's first evacuation order to its first white phosphorus attack, its first fire and its first detonation report, each for all orders and for town-named orders only, with the middle half of the towns as a bar and the median the calendar alone gives as a ring.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 459.75" width="1000" height="459.75" role="img" aria-labelledby="desc">
+<desc id="desc">A dot plot in three groups: the median number of days from a town's first evacuation order to its first white phosphorus attack, its first fire and its first detonation report, each for all orders and for town-named orders only, with the middle half of the towns as a bar and the median the calendar alone gives as a ring. The fifth category, the glyphosate spraying of 1 February 2026, falls before the window and is in no comparison.</desc>
 <style>svg{fill:#1f2220}text{font-family:Inter, "Segoe UI", system-ui, sans-serif}.h{paint-order:stroke;stroke:#fff;stroke-width:4px;stroke-linejoin:round}</style>
-<rect width="1000" height="440" fill="#ffffff"/>
+<rect width="1000" height="459.75" fill="#ffffff"/>
 <g class="grid">
 <line x1="300" y1="76" x2="300" y2="342" stroke="#c3c2b7" stroke-width="1"/>
 <line x1="396" y1="76" x2="396" y2="342" stroke="#e4e4e4" stroke-width="1"/>
@@ -38,6 +38,7 @@
 <circle cx="584.8" cy="226" r="6.5" fill="#f76707" stroke="#ffffff" stroke-width="1.5"/>
 <circle cx="573.6" cy="294" r="6.5" fill="#d9202f" stroke="#ffffff" stroke-width="1.5"/>
 <circle cx="530.4" cy="324" r="6.5" fill="#d9202f" stroke="#ffffff" stroke-width="1.5"/>
+<path d="M20.60,432.90L25.20,437.50L20.60,442.10L16.00,437.50Z" fill="#6f6a2b"/>
 </g>
 <g class="text">
 <text x="53" y="24" font-size="13.5" fill="#4b4e4c">Median (dot) and the middle half of the towns (bar)</text>
@@ -66,5 +67,6 @@
 <text x="802" y="328.5"><tspan font-size="13" font-weight="700">72 days</tspan><tspan dx="6" font-size="12.5" fill="#4b4e4c">(calendar 76)</tspan></text>
 <text x="16" y="408" font-size="12.5" fill="#828282">Each comparison holds only the towns with both categories. All orders count an order to a whole region at every town inside it. The calendar median pairs each</text>
 <text x="16" y="424.88" font-size="12.5" fill="#828282">town's first order with other towns' first records of the same category: it keeps when each category happened over the south and removes the town.</text>
+<text x="31.2" y="441.75" font-size="12.5" fill="#828282">The fifth category, the glyphosate spraying of 1 February 2026, falls before the window and is not counted in any comparison.</text>
 </g>
 </svg>
