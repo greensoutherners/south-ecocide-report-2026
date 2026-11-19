@@ -264,12 +264,13 @@ a:hover { text-decoration-thickness: 2px; }
   margin: 0;
 }
 
-.cover-rule { display: grid; grid-template-columns: repeat(4, 1fr); gap: 4px; max-width: 240px; height: 6px; margin: 30px 0 0; }
+.cover-rule { display: grid; grid-template-columns: repeat(5, 1fr); gap: 4px; max-width: 240px; height: 6px; margin: 30px 0 0; }
 .cover-rule span { border-radius: 2px; }
 .cover-rule .brn { background: var(--type-brn); }
 .cover-rule .wpb { background: var(--type-wpb); }
 .cover-rule .alr { background: var(--type-alr); }
 .cover-rule .det { background: var(--type-det); }
+.cover-rule .gly { background: #6f6a2b; } /* glyphosate, the fifth category: the olive of its maps and charts */
 
 .cover-band {
   display: flex;
@@ -677,8 +678,8 @@ blockquote.pull cite, blockquote.pull footer { display: block; font-style: norma
   .fig, .tbl-wrap, .callout, .keyfigs, blockquote.pull, .ref-list li { break-inside: avoid; }
   /* the executive summary is taller than a page: it breaks between its points,
      never inside one, and its kicker stays with the first point */
-  #summary > .callout.summary { break-inside: auto; }
-  #summary > .callout.summary::before { break-after: avoid; }
+  #summary > .callout.summary, #s-summary > .callout.summary { break-inside: auto; }
+  #summary > .callout.summary::before, #s-summary > .callout.summary::before { break-after: avoid; }
   .callout li { break-inside: avoid; }
   .fig { margin: 5mm 0 6mm; }
   .fig img { max-height: 170mm; width: auto; max-width: 100%; margin: 0 auto; }
