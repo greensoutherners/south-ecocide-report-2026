@@ -1,72 +1,87 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 459.75" width="1000" height="459.75" role="img" aria-labelledby="desc">
-<desc id="desc">A dot plot in three groups: the median number of days from a town's first evacuation order to its first white phosphorus attack, its first fire and its first detonation report, each for all orders and for town-named orders only, with the middle half of the towns as a bar and the median the calendar alone gives as a ring. The fifth category, the glyphosate spraying of 1 February 2026, falls before the window and is in no comparison.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 613.38" width="1000" height="613.38" role="img" aria-labelledby="desc">
+<desc id="desc">A dot plot in four groups. First, the fifth category, the glyphosate spraying of 1 February 2026: at the ten communities of the CNRS-L area table, the median number of days from the community's first evacuation order to the spraying, left of zero because the spraying came before every order: 29 days before with all orders, at all ten, and 29 days before with town-named orders only, at the seven an order named; one operation, so no median that the calendar alone gives. Then the median number of days from a town's first evacuation order to its first white phosphorus attack, its first fire and its first detonation report, each for all orders and for town-named orders only, with the middle half of the towns as a bar and the median the calendar alone gives as a ring.</desc>
 <style>svg{fill:#1f2220}text{font-family:Inter, "Segoe UI", system-ui, sans-serif}.h{paint-order:stroke;stroke:#fff;stroke-width:4px;stroke-linejoin:round}</style>
-<rect width="1000" height="459.75" fill="#ffffff"/>
+<rect width="1000" height="613.38" fill="#ffffff"/>
 <g class="grid">
-<line x1="300" y1="76" x2="300" y2="342" stroke="#c3c2b7" stroke-width="1"/>
-<line x1="396" y1="76" x2="396" y2="342" stroke="#e4e4e4" stroke-width="1"/>
-<line x1="492" y1="76" x2="492" y2="342" stroke="#e4e4e4" stroke-width="1"/>
-<line x1="588" y1="76" x2="588" y2="342" stroke="#e4e4e4" stroke-width="1"/>
-<line x1="684" y1="76" x2="684" y2="342" stroke="#e4e4e4" stroke-width="1"/>
-<line x1="780" y1="76" x2="780" y2="342" stroke="#e4e4e4" stroke-width="1"/>
+<line x1="300" y1="76" x2="300" y2="440" stroke="#e4e4e4" stroke-width="1"/>
+<line x1="368.57" y1="76" x2="368.57" y2="440" stroke="#e4e4e4" stroke-width="1"/>
+<line x1="437.14" y1="76" x2="437.14" y2="440" stroke="#c3c2b7" stroke-width="1"/>
+<line x1="505.71" y1="76" x2="505.71" y2="440" stroke="#e4e4e4" stroke-width="1"/>
+<line x1="574.29" y1="76" x2="574.29" y2="440" stroke="#e4e4e4" stroke-width="1"/>
+<line x1="642.86" y1="76" x2="642.86" y2="440" stroke="#e4e4e4" stroke-width="1"/>
+<line x1="711.43" y1="76" x2="711.43" y2="440" stroke="#e4e4e4" stroke-width="1"/>
+<line x1="780" y1="76" x2="780" y2="440" stroke="#e4e4e4" stroke-width="1"/>
 </g>
 <g class="marks">
 <rect x="16" y="15" width="30" height="9" rx="4.5" fill="#b4b5b3"/>
 <circle cx="31" cy="19.5" r="5.5" fill="#4b4e4c" stroke="#ffffff" stroke-width="1.5"/>
 <circle cx="425.99" cy="19.5" r="8" fill="none" stroke="#1f2220" stroke-width="1.4"/>
-<rect x="16" y="63.56" width="10.44" height="10.44" rx="1.5" fill="#d6336c"/>
-<rect x="344.8" y="93" width="86.4" height="10" rx="5" fill="#eda3bd"/>
-<circle cx="367.2" cy="98" r="9.5" fill="none" stroke="#1f2220" stroke-width="1.4"/>
-<rect x="306.4" y="123" width="92.8" height="10" rx="5" fill="#eda3bd"/>
-<circle cx="373.6" cy="128" r="9.5" fill="none" stroke="#1f2220" stroke-width="1.4"/>
-<rect x="16" y="161.56" width="10.44" height="10.44" rx="1.5" fill="#f76707"/>
-<rect x="447.2" y="191" width="248" height="10" rx="5" fill="#fbbb8f"/>
-<circle cx="610.4" cy="196" r="9.5" fill="none" stroke="#1f2220" stroke-width="1.4"/>
-<rect x="415.2" y="221" width="259.2" height="10" rx="5" fill="#fbbb8f"/>
-<circle cx="575.2" cy="226" r="9.5" fill="none" stroke="#1f2220" stroke-width="1.4"/>
-<rect x="16" y="259.56" width="10.44" height="10.44" rx="1.5" fill="#d9202f"/>
-<rect x="439.2" y="289" width="288" height="10" rx="5" fill="#ee9ba1"/>
-<circle cx="581.6" cy="294" r="9.5" fill="none" stroke="#1f2220" stroke-width="1.4"/>
-<rect x="410.4" y="319" width="288.96" height="10" rx="5" fill="#ee9ba1"/>
-<circle cx="543.2" cy="324" r="9.5" fill="none" stroke="#1f2220" stroke-width="1.4"/>
+<rect x="16" y="63.56" width="10.44" height="10.44" rx="1.5" fill="#6f6a2b"/>
+<rect x="360.57" y="93" width="10.29" height="10" rx="5" fill="#bebca0"/>
+<rect x="16" y="161.56" width="10.44" height="10.44" rx="1.5" fill="#d6336c"/>
+<rect x="469.14" y="191" width="61.71" height="10" rx="5" fill="#eda3bd"/>
+<circle cx="485.14" cy="196" r="9.5" fill="none" stroke="#1f2220" stroke-width="1.4"/>
+<rect x="441.71" y="221" width="66.29" height="10" rx="5" fill="#eda3bd"/>
+<circle cx="489.71" cy="226" r="9.5" fill="none" stroke="#1f2220" stroke-width="1.4"/>
+<rect x="16" y="259.56" width="10.44" height="10.44" rx="1.5" fill="#f76707"/>
+<rect x="542.29" y="289" width="177.14" height="10" rx="5" fill="#fbbb8f"/>
+<circle cx="658.86" cy="294" r="9.5" fill="none" stroke="#1f2220" stroke-width="1.4"/>
+<rect x="519.43" y="319" width="185.14" height="10" rx="5" fill="#fbbb8f"/>
+<circle cx="633.71" cy="324" r="9.5" fill="none" stroke="#1f2220" stroke-width="1.4"/>
+<rect x="16" y="357.56" width="10.44" height="10.44" rx="1.5" fill="#d9202f"/>
+<rect x="536.57" y="387" width="205.71" height="10" rx="5" fill="#ee9ba1"/>
+<circle cx="638.29" cy="392" r="9.5" fill="none" stroke="#1f2220" stroke-width="1.4"/>
+<rect x="516" y="417" width="206.4" height="10" rx="5" fill="#ee9ba1"/>
+<circle cx="610.86" cy="422" r="9.5" fill="none" stroke="#1f2220" stroke-width="1.4"/>
 </g>
 <g class="over">
-<line x1="300" y1="342" x2="780" y2="342" stroke="#c3c2b7" stroke-width="1"/>
-<circle cx="370.4" cy="98" r="6.5" fill="#d6336c" stroke="#ffffff" stroke-width="1.5"/>
-<circle cx="370.4" cy="128" r="6.5" fill="#d6336c" stroke="#ffffff" stroke-width="1.5"/>
-<circle cx="610.4" cy="196" r="6.5" fill="#f76707" stroke="#ffffff" stroke-width="1.5"/>
-<circle cx="584.8" cy="226" r="6.5" fill="#f76707" stroke="#ffffff" stroke-width="1.5"/>
-<circle cx="573.6" cy="294" r="6.5" fill="#d9202f" stroke="#ffffff" stroke-width="1.5"/>
-<circle cx="530.4" cy="324" r="6.5" fill="#d9202f" stroke="#ffffff" stroke-width="1.5"/>
-<path d="M20.60,432.90L25.20,437.50L20.60,442.10L16.00,437.50Z" fill="#6f6a2b"/>
+<line x1="300" y1="440" x2="780" y2="440" stroke="#c3c2b7" stroke-width="1"/>
+<circle cx="370.86" cy="98" r="6.5" fill="#6f6a2b" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="370.86" cy="128" r="6.5" fill="#6f6a2b" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="487.43" cy="196" r="6.5" fill="#d6336c" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="487.43" cy="226" r="6.5" fill="#d6336c" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="658.86" cy="294" r="6.5" fill="#f76707" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="640.57" cy="324" r="6.5" fill="#f76707" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="632.57" cy="392" r="6.5" fill="#d9202f" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="601.71" cy="422" r="6.5" fill="#d9202f" stroke="#ffffff" stroke-width="1.5"/>
 </g>
 <g class="text">
 <text x="53" y="24" font-size="13.5" fill="#4b4e4c">Median (dot) and the middle half of the towns (bar)</text>
 <text x="439.99" y="24" font-size="13.5" fill="#4b4e4c">Median that the calendar alone gives</text>
-<text x="300" y="360" font-size="13" fill="#828282" text-anchor="middle">0</text>
-<text x="396" y="360" font-size="13" fill="#828282" text-anchor="middle">30</text>
-<text x="492" y="360" font-size="13" fill="#828282" text-anchor="middle">60</text>
-<text x="588" y="360" font-size="13" fill="#828282" text-anchor="middle">90</text>
-<text x="684" y="360" font-size="13" fill="#828282" text-anchor="middle">120</text>
-<text x="780" y="360" font-size="13" fill="#828282" text-anchor="middle">150</text>
-<text x="540" y="382" font-size="13.5" fill="#4b4e4c" text-anchor="middle">Days from the town's first evacuation order</text>
-<text x="32.44" y="74"><tspan font-size="14.5" font-weight="700">To the first white phosphorus attack</tspan></text>
-<text x="286" y="102.5" font-size="13.5" fill="#1f2220" text-anchor="end">All orders, 49 towns</text>
-<text x="802" y="102.5"><tspan font-size="13" font-weight="700">22 days</tspan><tspan dx="6" font-size="12.5" fill="#4b4e4c">(calendar 21)</tspan></text>
-<text x="286" y="132.5" font-size="13.5" fill="#1f2220" text-anchor="end">Town-named orders only, 35 towns</text>
-<text x="802" y="132.5"><tspan font-size="13" font-weight="700">22 days</tspan><tspan dx="6" font-size="12.5" fill="#4b4e4c">(calendar 23)</tspan></text>
-<text x="32.44" y="172"><tspan font-size="14.5" font-weight="700">To the first fire</tspan><tspan dx="8" font-size="13.5" fill="#4b4e4c">in the published scope</tspan></text>
-<text x="286" y="200.5" font-size="13.5" fill="#1f2220" text-anchor="end">All orders, 106 towns</text>
-<text x="802" y="200.5"><tspan font-size="13" font-weight="700">97 days</tspan><tspan dx="6" font-size="12.5" fill="#4b4e4c">(calendar 97)</tspan></text>
-<text x="286" y="230.5" font-size="13.5" fill="#1f2220" text-anchor="end">Town-named orders only, 81 towns</text>
-<text x="802" y="230.5"><tspan font-size="13" font-weight="700">89 days</tspan><tspan dx="6" font-size="12.5" fill="#4b4e4c">(calendar 86)</tspan></text>
-<text x="32.44" y="270"><tspan font-size="14.5" font-weight="700">To the first detonation or demolition</tspan></text>
-<text x="286" y="298.5" font-size="13.5" fill="#1f2220" text-anchor="end">All orders, 52 towns</text>
-<text x="802" y="298.5"><tspan font-size="13" font-weight="700">85.5 days</tspan><tspan dx="6" font-size="12.5" fill="#4b4e4c">(calendar 88)</tspan></text>
-<text x="286" y="328.5" font-size="13.5" fill="#1f2220" text-anchor="end">Town-named orders only, 42 towns</text>
-<text x="802" y="328.5"><tspan font-size="13" font-weight="700">72 days</tspan><tspan dx="6" font-size="12.5" fill="#4b4e4c">(calendar 76)</tspan></text>
-<text x="16" y="408" font-size="12.5" fill="#828282">Each comparison holds only the towns with both categories. All orders count an order to a whole region at every town inside it. The calendar median pairs each</text>
-<text x="16" y="424.88" font-size="12.5" fill="#828282">town's first order with other towns' first records of the same category: it keeps when each category happened over the south and removes the town.</text>
-<text x="31.2" y="441.75" font-size="12.5" fill="#828282">The fifth category, the glyphosate spraying of 1 February 2026, falls before the window and is not counted in any comparison.</text>
+<text x="300" y="458" font-size="13" fill="#828282" text-anchor="middle">-60</text>
+<text x="368.57" y="458" font-size="13" fill="#828282" text-anchor="middle">-30</text>
+<text x="437.14" y="458" font-size="13" fill="#828282" text-anchor="middle">0</text>
+<text x="505.71" y="458" font-size="13" fill="#828282" text-anchor="middle">30</text>
+<text x="574.29" y="458" font-size="13" fill="#828282" text-anchor="middle">60</text>
+<text x="642.86" y="458" font-size="13" fill="#828282" text-anchor="middle">90</text>
+<text x="711.43" y="458" font-size="13" fill="#828282" text-anchor="middle">120</text>
+<text x="780" y="458" font-size="13" fill="#828282" text-anchor="middle">150</text>
+<text x="540" y="480" font-size="13.5" fill="#4b4e4c" text-anchor="middle">Days from the town's first evacuation order (left of 0: before it)</text>
+<text x="32.44" y="74"><tspan font-size="14.5" font-weight="700">Glyphosate spraying</tspan><tspan dx="8" font-size="13.5" fill="#4b4e4c">one operation, 1 February 2026, before every first order in the ten communities CNRS-L lists; no calendar median</tspan></text>
+<text x="286" y="102.5" font-size="13.5" fill="#1f2220" text-anchor="end">All orders, 10 of 10</text>
+<text x="802" y="102.5" font-size="13" font-weight="700">29 days before</text>
+<text x="286" y="132.5" font-size="13.5" fill="#1f2220" text-anchor="end">Town-named orders only, 7 of 10</text>
+<text x="802" y="132.5" font-size="13" font-weight="700">29 days before</text>
+<text x="32.44" y="172"><tspan font-size="14.5" font-weight="700">To the first white phosphorus attack</tspan></text>
+<text x="286" y="200.5" font-size="13.5" fill="#1f2220" text-anchor="end">All orders, 49 towns</text>
+<text x="802" y="200.5"><tspan font-size="13" font-weight="700">22 days</tspan><tspan dx="6" font-size="12.5" fill="#4b4e4c">(calendar 21)</tspan></text>
+<text x="286" y="230.5" font-size="13.5" fill="#1f2220" text-anchor="end">Town-named orders only, 35 towns</text>
+<text x="802" y="230.5"><tspan font-size="13" font-weight="700">22 days</tspan><tspan dx="6" font-size="12.5" fill="#4b4e4c">(calendar 23)</tspan></text>
+<text x="32.44" y="270"><tspan font-size="14.5" font-weight="700">To the first fire</tspan><tspan dx="8" font-size="13.5" fill="#4b4e4c">in the published scope</tspan></text>
+<text x="286" y="298.5" font-size="13.5" fill="#1f2220" text-anchor="end">All orders, 106 towns</text>
+<text x="802" y="298.5"><tspan font-size="13" font-weight="700">97 days</tspan><tspan dx="6" font-size="12.5" fill="#4b4e4c">(calendar 97)</tspan></text>
+<text x="286" y="328.5" font-size="13.5" fill="#1f2220" text-anchor="end">Town-named orders only, 81 towns</text>
+<text x="802" y="328.5"><tspan font-size="13" font-weight="700">89 days</tspan><tspan dx="6" font-size="12.5" fill="#4b4e4c">(calendar 86)</tspan></text>
+<text x="32.44" y="368"><tspan font-size="14.5" font-weight="700">To the first detonation or demolition</tspan></text>
+<text x="286" y="396.5" font-size="13.5" fill="#1f2220" text-anchor="end">All orders, 52 towns</text>
+<text x="802" y="396.5"><tspan font-size="13" font-weight="700">85.5 days</tspan><tspan dx="6" font-size="12.5" fill="#4b4e4c">(calendar 88)</tspan></text>
+<text x="286" y="426.5" font-size="13.5" fill="#1f2220" text-anchor="end">Town-named orders only, 42 towns</text>
+<text x="802" y="426.5"><tspan font-size="13" font-weight="700">72 days</tspan><tspan dx="6" font-size="12.5" fill="#4b4e4c">(calendar 76)</tspan></text>
+<text x="16" y="506" font-size="12.5" fill="#828282">Each comparison holds only the towns with both categories. All orders count an order to a whole region at every town inside it. The calendar median pairs each</text>
+<text x="16" y="522.88" font-size="12.5" fill="#828282">town's first order with other towns' first records of the same category: it keeps when each category happened over the south and removes the town. The</text>
+<text x="16" y="539.75" font-size="12.5" fill="#828282">glyphosate group counts the communities of the CNRS-L area table that had an order, placed as on the glyphosate map (Borj an-Naqoura at An-Naqoura,</text>
+<text x="16" y="556.62" font-size="12.5" fill="#828282">Mazraat az-Zalloutiyeh at Az-Zalloutiyah, Al-Marwaniyeh at Marwahin, and Btayshiyeh, which has no gazetteer point, inside its approximate territory); no order</text>
+<text x="16" y="573.5" font-size="12.5" fill="#828282">named Al-Bustan, Btayshiyeh and Mazraat az-Zalloutiyeh, which a region order reached. The spraying is one operation, so it has no calendar median and is in</text>
+<text x="16" y="590.38" font-size="12.5" fill="#828282">no pair or test with the four categories.</text>
 </g>
 </svg>
